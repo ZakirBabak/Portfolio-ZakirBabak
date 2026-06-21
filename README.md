@@ -4,6 +4,7 @@ IT Support • Systems • Networks • Infrastructure
 
 📍 Nîmes, France  
 📞 xx xx xx xx xx 
+
 ✉️ babak.zakir@gmail.com  
 
 🔗 LinkedIn: https://linkedin.com/in/zakir-babak-a35448289  
