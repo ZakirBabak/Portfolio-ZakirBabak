@@ -112,7 +112,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 ---
 
 ## 8. Mail Server Infrastructure (EMAIL SYSTEM)
-🔗 (not published yet)
+🔗 https://github.com/ZakirBabak/Mail-Server-Infrastructure
 
 ✔ Mail server deployment (Mailcow / Postfix / Dovecot / SOGO)  
 ✔ SMTP / IMAP configuration  
