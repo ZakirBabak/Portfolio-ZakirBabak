@@ -4,7 +4,7 @@ IT Support • Systems • Networks • Infrastructure
 
 📍 Nîmes, France  
 📞 xx xx xx xx xx 
-✉️ babak.zakir@gmail.com  
+✉️ babak.zakir@gmail.com   
 
 🔗 LinkedIn: https://linkedin.com/in/zakir-babak-a35448289  
 💻 GitHub: https://github.com/ZakirBabak  
@@ -195,5 +195,5 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 # CONTACT
 
 📧 babak.zakir@gmail.com  
-🔗 LinkedIn 
-💻 GitHub
+🔗 LinkedIn: https://linkedin.com/in/zakir-babak-a35448289  
+💻 GitHub: https://github.com/ZakirBabak  
