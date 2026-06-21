@@ -1,4 +1,4 @@
-# 🖥️ Zakir BABAK
+# Zakir BABAK
 Technicien Support Informatique (N1/N2) | TSSR Bac+2  
 IT Support • Systems • Networks • Infrastructure
 
@@ -11,7 +11,7 @@ IT Support • Systems • Networks • Infrastructure
 
 ---
 
-# 🎯 PROFIL / OBJECTIF
+# PROFIL / OBJECTIF
 
 Technicien Support Informatique Junior (diplômé TSSR Bac+2), à la recherche d’une première expérience professionnelle dans le domaine de l’informatique.
 
@@ -26,36 +26,36 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ---
 
-# 🛠️ COMPÉTENCES TECHNIQUES
+# COMPÉTENCES TECHNIQUES
 
-## 🖥️ Systèmes
+## Systèmes
 - Windows 10 / 11 / Windows Server
 - Linux (Ubuntu / Debian)
 - Installation & configuration systèmes
 
-## 🌐 Réseaux
+## Réseaux
 - TCP/IP, DNS, DHCP
 - VLAN, VPN, NAT
 - Switch & Router basics
 
-## 🧑‍💻 Support IT
+## Support IT
 - GLPI (ticketing system)
 - Active Directory / LDAP
 - Helpdesk N1/N2 support
 
-## ☁️ Infrastructure
+## Infrastructure
 - Proxmox VE & Hyper-V (Virtualization)
 - Virtual Machines
 - Backup & restore
 - Raid & NAS
 
-## 🔧 Outils
+## Outils
 - Graylog, Rsyslog, NXlog (logging)
 - FTP, SMBH, SFTP / SSH
 
 ---
 
-# 🚀 PROJETS TECHNIQUES
+# PROJETS TECHNIQUES
 
 ## 1. GLPI + Active Directory + LDAP
 🔗 https://github.com/ZakirBabak/GLPI-ActiveDirectory-LDAP  
@@ -142,7 +142,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ---
 
-# 💼 EXPERIENCE (STAGES)
+# EXPERIENCE (STAGES)
 
 ## Technicien Support Informatique (N1/N2)
 FABLAB — Nîmes | 02.2026 – 05.2026
@@ -170,14 +170,14 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 
 ---
 
-## 📌 AUTRES EXPÉRIENCES 
+## AUTRES EXPÉRIENCES 
 - Expert des relations publiques (Public Relations Expert) | Ministère de la Communication et de l’Informatique — Afghanistan | 2019 – 2020
 
 - Manager exécutif (Executive Manager) | Commission des Plaintes Électorales — Afghanistan | 2016 – 2019
 
   ---
   
-# 🎓 FORMATION
+# FORMATION
 
 - TSSR (Bac+2) – OFIAQ, Nîmes (2025–2026)
 - TAI (Bac) – OFIAQ, Nîmes (2024)
@@ -185,14 +185,14 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 
 ---
 
-# 🌍 LANGUES
+# LANGUES
 
 - Français: B1–B2  
 - English: C1  
 
 ---
 
-# 📫 CONTACT
+# CONTACT
 
 📧 babak.zakir@gmail.com  
 🔗 LinkedIn 
