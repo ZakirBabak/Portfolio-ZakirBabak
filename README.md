@@ -1,5 +1,5 @@
 # Zakir BABAK
-Technicien Support Informatique (N1/N2) | TSSR Bac+2  
+Technicien Support Informatique & Systèmes Junior | TSSR Bac+2 
 IT Support • Systems • Networks • Infrastructure
 
 📍 Nîmes, France  
@@ -35,8 +35,8 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ## Réseaux
 - TCP/IP, DNS, DHCP
-- Router, NAT, Routing 
-- Switch, VLAN, VPN basics
+- Router, Routing, NAT
+- Switch, VLAN, VPN (bases)
 
 ## Support IT
 - GLPI (ticketing system)
@@ -47,14 +47,14 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 - Proxmox VE & Hyper-V (Virtualization)
 - Virtual Machines
 - Backup & restore
-- Raid & NAS
+- RAID & NAS
 
 ## Outils
 - GLPI, Active Directory, LDAP, WDS, RDS, XRDP
 - SSH, SFTP, FTP, SMB
 - PowerShell, CMD, Bash, Crontab, UFW
 - Proxmox VE, Hyper-V, Virt-Manager (KVM), VirtualBox
-- Wireshark, Nmap,
+- Wireshark, NMAP
 - Graylog, Rsyslog, NXLog
 - RAID, NAS, iSCSI, FSRM, 
 - GitHub
@@ -193,8 +193,8 @@ SUP DEC NOUAS — Nîmes | 03.2024 – 05.2024
 
 # Certification
 
-- Basic Networking — Cisco Networking Academy online 
-- IOT / Compétences Numériques — Cisco Networking Academy (NOUAS)
+- Basic Networking — Cisco Networking Academy
+- IoT & Compétences Numériques — Cisco Networking Academy
   
 # LANGUES
 
