@@ -91,8 +91,10 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ## 4. Graylog Logging System
 🔗 https://github.com/ZakirBabak/Graylog-Logging  
-✔ Log management  
-✔ System monitoring  
+✔ Log management 
+
+✔ System monitoring 
+
 ✔ Security analysis  
 
 ---
