@@ -80,22 +80,19 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ---
 
-## 3. Active Directory + TrueNAS Storage
+ ## 3. Active Directory + TrueNAS Storage
 🔗 https://github.com/ZakirBabak/Active-Directory-TrueNAS-Infrastructure
-
 ✔ Centralized storage (iSCSI)
-
 ✔ AD integration
-
-✔ File sharing system 
+✔ File sharing system
 
 ---
 
 ## 4. Graylog Logging System
-🔗 https://github.com/ZakirBabak/Graylog-Logging  
-✔ Log management 
-✔ System monitoring 
-✔ Security analysis  
+🔗 https://github.com/ZakirBabak/Graylog-Logging
+✔ Log management
+✔ System monitoring
+✔ Security analysis
 
 ---
 
