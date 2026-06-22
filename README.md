@@ -35,8 +35,8 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ## Réseaux
 - TCP/IP, DNS, DHCP
-- VLAN, VPN, NAT
-- Switch & Router basics
+- Router, NAT, Routing 
+- Switch, VLAN, VPN basics
 
 ## Support IT
 - GLPI (ticketing system)
@@ -185,6 +185,11 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 
 ---
 
+# Certification
+
+- Basic Networking — Cisco Networking Academy online 
+- IOT / Compétences Numériques — Cisco Networking Academy
+  
 # LANGUES
 
 - Français: B1–B2  
