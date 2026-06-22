@@ -188,7 +188,7 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 # LANGUES
 
 - Français: B1–B2  
-- English: C1  
+- English: B2–C1 
 
 ---
 
