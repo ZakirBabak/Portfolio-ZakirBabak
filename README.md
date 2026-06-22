@@ -1,5 +1,5 @@
 # Zakir BABAK
-Technicien Support Informatique (N1/N2) | TSSR Bac+2  
+Technicien Support Informatique Junior (N1/N2) | TSSR Bac+2  
 IT Support • Systems • Networks • Infrastructure
 
 📍 Nîmes, France  
@@ -50,8 +50,14 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 - Raid & NAS
 
 ## Outils
-- Graylog, Rsyslog, NXlog (logging)
-- FTP, SMBH, SFTP / SSH
+- GLPI, Active Directory, LDAP, WDS, RDS, XRDP
+- SSH, SFTP, FTP, SMB
+- PowerShell, CMD, Bash, Crontab, UFW
+- Proxmox VE, Hyper-V, Virt-Manager (KVM), VirtualBox
+- Wireshark, Nmap,
+- Graylog, Rsyslog, NXLog
+- RAID, NAS, iSCSI, FSRM, 
+- GitHub
 
 ---
 
@@ -123,7 +129,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 ---
 
 ## 9. Windows Deployment Services (WDS /Sysprep)
-🔗 (not published yet)
+🔗 Private (available upon request)
 
 ✔ Windows OS deployment automation  
 ✔ PXE boot installation  
@@ -133,7 +139,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 ---
 
 ## 10. System Recovery & Admin Access Lab
-🔗 (not published yet)
+🔗 Private (available upon request)
 
 ✔ Windows / Linux recovery procedures  
 ✔ System troubleshooting  
@@ -163,7 +169,7 @@ Ordi Solidaire — Nîmes | 03.2025
 ---
 
 ## Technicien Support Informatique N1
-SUP DEC — Nîmes | 03.2024 – 05.2024
+SUP DEC NOUAS — Nîmes | 03.2024 – 05.2024
 
 - User workstation installation
 - Technical assistance
@@ -188,7 +194,7 @@ SUP DEC — Nîmes | 03.2024 – 05.2024
 # Certification
 
 - Basic Networking — Cisco Networking Academy online 
-- IOT / Compétences Numériques — Cisco Networking Academy
+- IOT / Compétences Numériques — Cisco Networking Academy (NOUAS)
   
 # LANGUES
 
