@@ -1,5 +1,5 @@
 # Zakir BABAK
-Technicien Support Informatique Junior (N1/N2) | TSSR Bac+2  
+Technicien Support Informatique (N1/N2) | TSSR Bac+2  
 IT Support • Systems • Networks • Infrastructure
 
 📍 Nîmes, France  
