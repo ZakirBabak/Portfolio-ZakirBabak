@@ -82,6 +82,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ## 3. Active Directory + TrueNAS Storage
 🔗 https://github.com/ZakirBabak/Active-Directory-TrueNAS-Infrastructure
+
 ✔ Centralized storage (iSCSI)
 ✔ AD integration
 ✔ File sharing system 
