@@ -52,7 +52,7 @@ Motivé, rigoureux et orienté solutions, je souhaite développer mes compétenc
 
 ## Outils
 - GLPI, Active Directory, LDAP, WDS, RDS, XRDP
-- SSH, SFTP, FTP, SMB
+- SSH, SFTP, FTP, SMB, ALC
 - PowerShell, CMD, Bash, Crontab, UFW
 - Proxmox VE, Hyper-V, Virt-Manager (KVM), VirtualBox
 - Wireshark, NMAP
